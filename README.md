@@ -8,6 +8,10 @@ This project is developed for the AI Club as a tutorial for Innovation Team memb
 
 [Quizlet with ChatGPT](https://www.youtube.com/playlist?list=PL2zBjIlLXAP2pTDTdoJ148jUBeYVcgaA6)
 
+## Screenshots
+
+![Ai Quiz Generator](screenshots/aiquizgenerator.png)
+
 ## Installation
 
 To run the Quizlet App, follow these steps:
@@ -36,7 +40,7 @@ OPENAI_API_KEY=your-openai-api-key
 4. Run the app:
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## Contact me
